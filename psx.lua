@@ -1,5 +1,5 @@
 --[[
--- THIS SCRIPT HAS BEEN CODED BY RAFA (discord.gg/MilkUp)
+-- THIS SCRIPT HAS BEEN CODED BY Binbinvogaming (https://discord.gg/479E8vefgN)
 -- DON'T BE A STUPID SKIDDIE THAT STEAL PEOPLE CODE AND PUT ON A SHIT PAID (or "watch ad to get key") SCRIPT
 -- hi Project WD please don't steal my code again thx
 
@@ -8,7 +8,7 @@
 --]]
 
 -- Join us at 
--- discord.gg/MilkUp
+-- https://discord.gg/479E8vefgN
 
 
 
@@ -22,8 +22,8 @@
 
 
 -- Important Variables
-local SCRIPT_NAME = "Rafa PSX GUI"
-local SCRIPT_VERSION = "v0.4" -- Hey rafa remember to change it before updating lmao
+local SCRIPT_NAME = "BinbinvoGaming PSX"
+local SCRIPT_VERSION = "v5.1.0" -- Hey rafa remember to change it before updating lmao
 
 -- Detect if the script has executed by AutoExec
 local AutoExecuted = false
@@ -518,12 +518,12 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	
 
 	local Window = Rayfield:CreateWindow({
-	   Name = "Pet Simulator GUI | by Rafa ",
+	   Name = "Pet Simulator |Made by BinbinvoGaming",
 	   LoadingTitle = SCRIPT_NAME .. " " .. SCRIPT_VERSION,
-	   LoadingSubtitle = "by Rafa",
+	   LoadingSubtitle = "Made by BinbinvoGaming",
 	   ConfigurationSaving = {
 		  Enabled = true,
-		  FolderName = "Rafa",
+		  FolderName = "BinbinvoGaming",
 		  FileName = "PetSimulatorX_" .. tostring(LocalPlayer.UserId)
 	   },
 	   OldTabLayout = true
@@ -2532,16 +2532,16 @@ if game.PlaceId == 6284583030 or game.PlaceId == 10321372166 or game.PlaceId == 
 	end)
 end
 
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
--- discord.gg/MilkUp
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
+-- https://discord.gg/479E8vefgN
